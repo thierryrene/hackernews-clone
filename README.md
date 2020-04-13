@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/thierryrene/hackernews-clone) 
+
 ![React Logo](https://github.com/zeit/now/blob/master/packages/frameworks/logos/react.svg)
 
 # React Example
